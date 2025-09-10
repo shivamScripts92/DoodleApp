@@ -134,5 +134,3 @@ const Board = () => {
 }
 
 export default Board;
-
-pura code dede
